@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nggang.site/static/css/main.f7c05253.css",
+    "main.js": "/nggang.site/static/js/main.7daec11c.js",
+    "index.html": "/nggang.site/index.html",
+    "main.f7c05253.css.map": "/nggang.site/static/css/main.f7c05253.css.map",
+    "main.7daec11c.js.map": "/nggang.site/static/js/main.7daec11c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c05253.css",
+    "static/js/main.7daec11c.js"
+  ]
+}
